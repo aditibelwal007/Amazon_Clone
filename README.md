@@ -1,17 +1,9 @@
 # Amazon_Clone
 The Amazon Clone Website is a static, responsive frontend project built using HTML and CSS, designed to replicate the visual layout and basic structure of the original Amazon homepage. It features a dynamic navigation bar, product sections with images, a promotional hero banner, and a detailed footer. 
 
-https://github.com/aditibelwal007/Amazon_Clone/blob/main/img.png?raw=true
-
 # 🛍️ Amazon Clone Website
 
 This project is a **frontend clone of Amazon's homepage**, built using **HTML and CSS**. It mimics the layout, structure, and design elements of the original Amazon website, offering a responsive and visually appealing interface.
-
-## 📸 Preview
-
-![Amazon Clone Screenshot](screenshot.png) <!-- Replace with your actual screenshot path -->
-
----
 
 ## 💡 Features
 
